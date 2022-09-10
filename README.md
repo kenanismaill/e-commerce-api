@@ -23,9 +23,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Installation
 - Clone the repository to your local machine and navigate to the project directory
+- Run `docker run --rm --interactive --tty -v $(pwd):/app composer install` to install all the dependencies
 - Run `alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'` in your terminal
+- copy `.env.example` to `.env` 
 - Run `sail up -d` to start the containers
-- Run `sail composer install` to install the dependencies
 - Run `sail artisan setup` to setup the project
 
 
