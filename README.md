@@ -28,7 +28,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Run `alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'` in your terminal
 - Run `sail up -d` to start the containers
 - Run `sail artisan setup` to setup the project
--Click on the link to access the application
+- Click on the link to access the application
 <a href="http://localhost/">localhost</a>
 
 ## License
