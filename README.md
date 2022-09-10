@@ -29,7 +29,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Run `sail up -d` to start the containers
 - Run `sail artisan setup` to setup the project
 - Click on the link to access the application
-<a href="http://localhost/">localhost</a>
+<a href="http://localhost:8080/">localhost</a>
 
 ## License
 
