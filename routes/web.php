@@ -15,5 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return  "app is working";
-    return view('welcome');
 });
